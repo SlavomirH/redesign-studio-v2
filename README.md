@@ -9,7 +9,7 @@ Paste your website URL, select what you want to improve, and get:
 
 ## Live site
 
-Hosted on GitHub Pages: **https://slavomirhruska.github.io/redesign-studio-v2/**
+Hosted on GitHub Pages: **https://slavomirh.github.io/redesign-studio-v2/**
 
 ## Tech
 
